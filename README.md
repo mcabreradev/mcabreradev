@@ -2,9 +2,9 @@
 
 <!-- - 🤔 I’m looking for help with --> 
 
-- 🔭 I’m currently working as a Freelancer
-- 🌱 I’m currently learning Nuxt, Graphql, Kubernates
-- 👯 I’m looking to collaborate on Vue Projects
+- 🔭 I’m currently working for Clevertech
+- 🌱 I’m currently learning Swift
+- 👯 I’m looking to collaborate on Ionic Projects
 - 💬 Ask me about food :)
 - 📫 How to reach me: -> [mcabrera.xyz](http://mcabrera.xyz)
 - 😄 Pronouns: Mi-gue
