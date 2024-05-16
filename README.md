@@ -2,7 +2,7 @@
 
 <!-- - 🤔 I’m looking for help with --> 
 
-- 🔭 I’m working at Paxer.com
+- 🔭 I’m working at BDACCESS
 - 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on Nextjs Projects
 - 💬 Ask me about food :)
